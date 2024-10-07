@@ -13,6 +13,10 @@ graph TD;
   A-->C;
   B-->D;
   C-->D;
+  A-->X;
+  B-->X;
+  C-->X;
+  D-->X;
 ```
 
 ```mermaid
