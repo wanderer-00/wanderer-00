@@ -21,18 +21,9 @@ graph TD;
 
 ```mermaid
 pie
-  title Key elements in Product X
-  "Calcium" : 42.96
-  "Potassium" : 50.05
-  "Magnesium" : 10.01
-  "Iron" : 5
-```
-
-```mermaid
-pie
-  title 为什么总是宅在家里？
-  "喜欢宅" : 45
-  "天气太热" : 70
-  "穷" : 500
-  "没人约" : 95
+  Круговая диаграма
+  "A" : 42.96
+  "B" : 50.05
+  "C" : 10.01
+  "D" : 5
 ```
