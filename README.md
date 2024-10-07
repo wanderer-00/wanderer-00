@@ -127,6 +127,8 @@ solid cube_corner
 endsolid
 ```
 
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl?height=300&width=500"></script>
+
 О модерации 3D моделей
 https://free-stl.ru/panno/3225-model-3017
 https://free-stl.ru/personazhi/6573-model-6314
