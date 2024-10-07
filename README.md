@@ -1,3 +1,4 @@
+# Математическое выражение LaTeX
 $$
 \begin{aligned}
 d_{i, j} &\leftarrow d_{i, j} + 1 \\
@@ -7,6 +8,7 @@ d_{x + 1, y + 1} &\leftarrow d_{x + 1, y + 1} + 1
 \end{aligned}
 $$
 
+# Блок схема
 ```mermaid
 graph TD;
   A-->B;
@@ -18,7 +20,7 @@ graph TD;
   C-->X;
   D-->X;
 ```
-
+# Круговая диаграмма
 ```mermaid
 pie
   title Key elements in Product X
@@ -28,6 +30,8 @@ pie
   "Iron" : 5
 ```
 
+
+# Карта
 ```geojson
 {
   "type": "FeatureCollection",
