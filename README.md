@@ -126,3 +126,7 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+О модерации 3D моделей
+https://free-stl.ru/panno/3225-model-3017
+https://free-stl.ru/personazhi/6573-model-6314
